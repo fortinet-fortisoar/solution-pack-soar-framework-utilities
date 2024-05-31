@@ -3,17 +3,12 @@
 
 # Usage
 
-Refer to [Simulate Scenario documentation](https://github.com/fortinet-fortisoar/solution-pack-soc-simulator/blob/develop/docs/usage.md) to understand how to simulate and reset scenarios.
+The solution pack deploys the *Key Store* module. This module allows users to store and manage key-value pairs that can be referenced and utilized by playbooks.
 
-To understand the process FortiSOAR follows to respond to <SP Specific threat>. We have included the following scenario with this solution pack:
-- Scenario 1
-- Scenario 2
-
-Refer to the subsequent sections to understand how this solution pack's automation addresses your needs.
-
-## Scenario 1
-
-## Scenario 2
+## Accessing the Key Store Module
+To access the *Key Store* module, follow these steps:
+1. Navigate to the **Resources** section from the main menu.
+2. Select **Key Store**.
 
 # Next Steps
 | [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) | [Contents](./contents.md) |
