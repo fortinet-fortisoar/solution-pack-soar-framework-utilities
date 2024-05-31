@@ -1,0 +1,32 @@
+{
+    "@context": "\/api\/3\/contexts\/SystemViewTemplate",
+    "@type": "SystemViewTemplate",
+    "type": "app",
+    "config": {
+        "navigation": [
+            {
+                "editMode": false,
+                "icon": "icon icon-resources",
+                "items": [
+                    {
+                        "editMode": false,
+                        "icon": "fa fa-key",
+                        "require": {
+                            "action": "read",
+                            "module": "keys"
+                        },
+                        "state": {
+                            "name": "main.modules.list",
+                            "parameters": {
+                                "module": "keys"
+                            }
+                        },
+                        "title": "Key Store"
+                    }
+                ],
+                "title": "Resources"
+            }
+        ]
+    },
+    "uuid": "navigation"
+}
