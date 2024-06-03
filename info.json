@@ -1,0 +1,50 @@
+{
+    "name": "sOARFrameworkUtilities",
+    "version": "1.0.0",
+    "fsrMinCompatibility": "7.2.0",
+    "type": "solutionpack",
+    "local": true,
+    "label": "SOAR Framework Utilities",
+    "dependencies": [],
+    "prerequisite": null,
+    "publisher": "Fortinet",
+    "certified": "true",
+    "description": "The SOAR Framework Utilities solution pack includes the essential 'Key Store' module needed for various solution packs to function.",
+    "help": "https://github.com/fortinet-fortisoar/solution-pack-soar-framework-utilities/blob/release/1.0.0/README.md",
+    "category": [
+        "FortiSOAR Essentials"
+    ],
+    "supportInfo": "Fortinet Customer Support",
+    "iconLarge": null,
+    "postInstallConfig": null,
+    "date": "2024-05-31T07:15:07+00:00",
+    "contents": {
+        "modules": {
+            "keys": {
+                "name": "Key Store",
+                "apiName": "keys"
+            }
+        },
+        "viewTemplates": {
+            "keys": {
+                "name": "Key Store",
+                "apiName": "keys",
+                "views": [
+                    "list",
+                    "detail",
+                    "form"
+                ]
+            }
+        },
+        "views": {
+            "navigation": [
+                "Resources"
+            ]
+        },
+        "roles": [
+            {
+                "name": "Full App Permissions"
+            }
+        ]
+    }
+}
