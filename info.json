@@ -1,7 +1,7 @@
 {
     "name": "sOARFrameworkUtilities",
     "version": "1.0.0",
-    "fsrMinCompatibility": "7.2.0",
+    "fsrMinCompatibility": "7.4.3",
     "type": "solutionpack",
     "local": true,
     "label": "SOAR Framework Utilities",
