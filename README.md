@@ -7,7 +7,7 @@
  
 
  # Overview 
- The **SOAR Framework Utilities** solution pack includes the essential 'Key Store' module needed for various solution packs to function. 
+ The **Platform Utilities** solution pack includes the essential 'Key Store' module needed for various solution packs to function. 
 
  # Next Steps
  | [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) | [Contents](./docs/contents.md) | 
