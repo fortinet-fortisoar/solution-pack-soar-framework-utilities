@@ -3,7 +3,7 @@
 
 # Contents
 
-The **SOAR Framework Utilities** solution pack contains the following resources.
+The **Platform Utilities** solution pack contains the following resources.
 
 ## Module Schema
 
