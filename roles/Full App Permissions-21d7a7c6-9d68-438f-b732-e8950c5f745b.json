@@ -11,7 +11,7 @@
             "canExecute": true,
             "canRead": true,
             "canUpdate": true,
-            "canDelete": true,
+            "canDelete": false,
             "fieldPermissions": [],
             "module": "keys"
         }

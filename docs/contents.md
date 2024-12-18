@@ -15,7 +15,7 @@ The **Platform Utilities** solution pack contains the following resources.
 
 | Name                 | Description                                                             |
 |:---------------------|:------------------------------------------------------------------------|
-| Full App Permissions | Add Create, Read, Update, and Delete permissions for *Key Store* module |
+| Full App Permissions | Add Create, Read, and Update permissions for *Key Store* module |
 
 
 ## System View
